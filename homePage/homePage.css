@@ -1,0 +1,143 @@
+/* ---------------------Main Body Overall CSS-----------------------*/
+/* ---------------------Main Body Overall CSS-----------------------*/
+/* ---------------------Main Body Overall CSS-----------------------*/
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter Tight', sans-serif;
+}
+
+/* ---------------------Overall Constant Margin Padding feature -----------------------*/
+/* ---------------------Overall Constant Margin Padding feature -----------------------*/
+/* ---------------------Overall Constant Margin Padding feature -----------------------*/
+
+/* --------------------- Top Box  -----------------------*/
+/* --------------------- Top Box  -----------------------*/
+/* --------------------- Top Box  -----------------------*/
+
+.topBox {
+    width: 100%;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 150px;
+    background: rgb(0, 164, 14);
+}
+.mainHeadTB {
+    font-size: 35px;
+    color: white;
+
+}
+.creatingDetailsDescTB {
+    font-size: 15px;
+    color: white;
+    margin-top: -15px;
+    
+}
+.mainImg {
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    border-radius: 50%;
+    
+}
+
+/* --------------------- Bottom Box  -----------------------*/
+/* --------------------- Bottom Box  -----------------------*/
+/* --------------------- Bottom Box  -----------------------*/
+.bottomBox {
+    height: 100%;
+    margin-top: -100px;
+    margin-bottom: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background: #efefef;
+    border-radius: 15px;
+    padding: 50px;
+    box-sizing: content-box;
+}
+
+.contentBox {
+    display: flex;
+    box-sizing: content-box;
+    width: 100%;
+    justify-content: center;
+}
+.subBox {
+    display: flex;
+    margin-top: 40px;
+    box-sizing: content-box;
+    width: 100%;
+    justify-content: center; /* aline center */
+}
+/*------------------------ Overall Same styles For Bottom Box-------------*/
+.headingStyle {
+    font-size: 14px;
+    color: rgb(74, 136, 250);
+
+}
+.sameInputBox {
+    box-sizing: border-box;
+    width: 100%;
+    height: 35px;
+    background-color: #efefef;
+    outline: rgb(74, 136, 250);
+    border: none;
+    padding: 0px 15px;
+    border-radius: 10px;
+    margin-top: -10px;
+
+}
+
+.childBoxes {
+    padding: 20px;
+    background-color: white;
+    width: 300px;
+    border-radius: 15px;
+    margin: 10px 20px;
+    cursor: pointer;
+   
+}
+
+
+.childHead {
+    font-size: 18px;
+    color: black;
+}
+/* --------------------- Personal Box  -----------------------*/
+
+/* --------------------- Education Box  -----------------------*/
+
+
+/* --------------------- Contact Box  -----------------------*/
+.submit {
+
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    box-sizing: content-box;
+    margin-top: 20px;
+    background-color: rgb(34, 108, 247);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+.submit:hover {
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    color: white;
+    box-sizing: content-box;
+    margin-top: 20px;
+    background-color: rgb(96, 150, 250);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+
+
+
